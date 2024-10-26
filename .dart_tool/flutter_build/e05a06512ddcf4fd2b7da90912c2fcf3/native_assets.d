@@ -1,0 +1,1 @@
+ C:\\btt\\bluetooth_scanner\\.dart_tool\\flutter_build\\e05a06512ddcf4fd2b7da90912c2fcf3\\native_assets.yaml: 
